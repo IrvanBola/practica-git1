@@ -1,0 +1,3 @@
+nombre:irvan bolaños
+edad:20
+universidad:utsjr
